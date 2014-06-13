@@ -19,4 +19,4 @@ functions:
 
  - public setcRange(`$start,$end,$step,$minStep`):set step range of cost parameter
  - public setgRange(`$start,$end,$step,$minStep`):set step range of gamma parameter
- - public gridSearchCG(`$data`):auto search best c,g parameter using gridSearch and cross validate,$data could be a svm light file url or an array like this array(-1,1=>0.87263,2=>9767,3=>0,4=>1)
+ - public gridSearchCG(`$data`):auto search best c,g parameter using gridSearch and cross validate,$data could be a svm light file url or an array like this array(-1,1=>0.87263,22=>9767,43=>0,44=>1)
